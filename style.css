@@ -1,0 +1,52 @@
+.conteiner{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 70vh;
+}
+.img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+}
+.arama-kismi {
+    background-color: rgb(206, 204, 204);
+    margin: 5px;
+}
+.arama-kutusu {
+    margin: 0px;
+    text-align: center;
+}
+.nav {
+    margin: 5px;
+}
+.t-bar1 {
+    background-color: turquoise;
+    float: left;
+    width: 40%;
+    height: 75px;
+    text-align: center;
+    margin-right: 0.5%;
+    margin-top: 0px;
+    padding-top: 15px;
+}
+.t-bar2 {
+    background-color: rgb(28, 184, 168);
+    float: left;
+    width: 19%;
+    height: 80px;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 10px;
+}
+.t-bar3 {
+    background-color: rgb(9, 167, 151);
+    float: left;
+    width: 40%;
+    height: 85px;
+    text-align: center;
+    margin-left: 0.5%;
+    margin-top: 0px;
+    padding-top: 5px;
+}
